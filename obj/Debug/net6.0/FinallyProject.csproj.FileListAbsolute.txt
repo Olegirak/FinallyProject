@@ -1,0 +1,15 @@
+C:\Geekbrain\FinallyProject\bin\Debug\net6.0\FinallyProject.exe
+C:\Geekbrain\FinallyProject\bin\Debug\net6.0\FinallyProject.deps.json
+C:\Geekbrain\FinallyProject\bin\Debug\net6.0\FinallyProject.runtimeconfig.json
+C:\Geekbrain\FinallyProject\bin\Debug\net6.0\FinallyProject.dll
+C:\Geekbrain\FinallyProject\bin\Debug\net6.0\FinallyProject.pdb
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.csproj.AssemblyReference.cache
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.AssemblyInfoInputs.cache
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.AssemblyInfo.cs
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.csproj.CoreCompileInputs.cache
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.dll
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\refint\FinallyProject.dll
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.pdb
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\FinallyProject.genruntimeconfig.cache
+C:\Geekbrain\FinallyProject\obj\Debug\net6.0\ref\FinallyProject.dll
